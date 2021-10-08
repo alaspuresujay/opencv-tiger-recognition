@@ -1,6 +1,5 @@
 This project is Tiger Image Recognition built specifically for Raspberry Pi.
 
-NOTE: You can run it on laptop also.
 
 ## Demo Video
 
